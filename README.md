@@ -160,4 +160,3 @@ Learn more about Claude at https://claude.ai
 
 **Created by:** Chase Newman  
 **GitHub:** https://github.com/ChaseNew  
-**Contact:** chase@newfolio.com
